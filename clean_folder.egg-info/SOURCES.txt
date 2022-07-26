@@ -1,3 +1,4 @@
+README.md
 setup.py
 clean_folder/__init__.py
 clean_folder/clean.py
